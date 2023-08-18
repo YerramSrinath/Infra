@@ -1,0 +1,4 @@
+variable "name" {
+    default = "test"
+  
+}
